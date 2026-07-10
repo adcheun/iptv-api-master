@@ -56,6 +56,11 @@
 
 IPv6 高清版会强制使用 IPv6 并筛选 1080P 以上源。如果当前宽带、路由器或播放器不支持 IPv6，结果可能很少或为空。
 
+GitHub Actions 也会每半小时自动生成这两套结果：
+
+- IPv4 稳定版 M3U：`https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv4.m3u`
+- IPv6 高清版 M3U：`https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv6_hd.m3u`
+
 ## 合规提醒
 
 请只添加你有权使用、转发或观看的直播地址。这个仓库只是整理、测速和生成播放列表的工具，不负责提供节目内容授权。
