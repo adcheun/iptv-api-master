@@ -1,0 +1,2 @@
+2026/03/19 17:42:36 [emerg] 11444#18264: CreateFile() "C:\Users\³ÂÔóºê\Desktop\iptv-api-master\utils\nginx-rtmp-win32/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2026/03/19 17:43:02 [emerg] 23344#5576: CreateFile() "C:\Users\³ÂÔóºê\Desktop\iptv-api-master\utils\nginx-rtmp-win32/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
