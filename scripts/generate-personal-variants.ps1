@@ -68,17 +68,17 @@ Invoke-IPTVBuild -Name "IPv4 stable" -Env @{
     "OPEN_SUPPLY" = "True"
 }
 
-Invoke-IPTVBuild -Name "IPv6 HD" -Env @{
+Invoke-IPTVBuild -Name "IPv6 playlist" -Env @{
     "FINAL_FILE" = "output/my_iptv_ipv6_hd.txt"
     "UPDATE_INTERVAL" = "0"
     "IPV6_SUPPORT" = "True"
     "IPV_TYPE" = "ipv6"
     "IPV_TYPE_PREFER" = "ipv6"
-    "MIN_RESOLUTION" = "1920x1080"
-    "MIN_SPEED" = "0.8"
-    "RESOLUTION_SPEED_MAP" = "1280x720:0.5,1920x1080:0.8,3840x2160:1.5"
+    "MIN_RESOLUTION" = "1280x720"
+    "MIN_SPEED" = "0.3"
+    "RESOLUTION_SPEED_MAP" = "1280x720:0.2,1920x1080:0.5,3840x2160:1.0"
     "URLS_LIMIT" = "3"
-    "OPEN_SUPPLY" = "False"
+    "OPEN_SUPPLY" = "True"
 }
 
 Write-Host ""
