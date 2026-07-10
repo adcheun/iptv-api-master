@@ -5,6 +5,13 @@
 
 
 https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+
+# 公开候选池：只作为候选源，不加入白名单，最终由模板、黑名单、测速和分辨率过滤决定是否保留。
+# Public candidate pools: keep them outside [WHITELIST], so poor or unavailable URLs are filtered by testing.
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
