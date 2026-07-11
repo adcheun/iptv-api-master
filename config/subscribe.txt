@@ -1,17 +1,26 @@
-# 这是订阅源列表，每行一个订阅地址
-# 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
-# This is a list of subscription sources, with one subscription address per line
-# Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# GitHub IPTV subscription sources, one URL per line.
+# The default GitHub Pages output is dual-stack: IPv4 first, IPv6 as fallback.
+# Keep sources outside [WHITELIST] so bad or slow URLs are filtered normally.
 
-
-https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-
-# 公开候选池：只作为候选源，不加入白名单，最终由模板、黑名单、测速和分辨率过滤决定是否保留。
-# Public candidate pools: keep them outside [WHITELIST], so poor or unavailable URLs are filtered by testing.
+# Mixed / IPv4-friendly GitHub sources.
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
 https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+
+# IPv6-focused GitHub sources.
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u
+https://raw.githubusercontent.com/liu673cn/box/main/libs/tv/ipv6.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+
+# Optional large mixed pool. Enable only if the curated pool above is not enough,
+# because it can make every 30-minute workflow run noticeably slower.
+# https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
+
 [WHITELIST]
-# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
-# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+# Put trusted subscription URLs below this line if you want them kept without
+# normal speed testing.

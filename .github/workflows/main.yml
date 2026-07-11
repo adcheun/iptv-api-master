@@ -5,6 +5,12 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'config/**'
+      - 'scripts/**'
+      - '.github/workflows/main.yml'
+      - '.gitignore'
   schedule:
     - cron: '*/30 * * * *'
 
@@ -30,12 +36,30 @@ jobs:
         run: pip3 install --user pipenv
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+      - name: Update default public playlist
+        env:
+          FINAL_FILE: output/my_iptv.txt
+          IPV6_SUPPORT: "False"
+          IPV_TYPE: all
+          IPV_TYPE_PREFER: ipv4,ipv6
+          ORIGIN_TYPE_PREFER: subscribe,local
+          LOCAL_NUM: "3"
+          SUBSCRIBE_NUM: "5"
+          MIN_RESOLUTION: 1280x720
+          MIN_SPEED: "0.35"
+          RESOLUTION_SPEED_MAP: 1280x720:0.2,1920x1080:0.45,3840x2160:1.0
+          URLS_LIMIT: "5"
+          OPEN_SUPPLY: "True"
+        run: pipenv run dev
       - name: Update IPv4 stable playlist
         env:
           FINAL_FILE: output/my_iptv_ipv4.txt
           IPV6_SUPPORT: "False"
           IPV_TYPE: ipv4
           IPV_TYPE_PREFER: ipv4
+          ORIGIN_TYPE_PREFER: subscribe,local
+          LOCAL_NUM: "3"
+          SUBSCRIBE_NUM: "5"
           MIN_RESOLUTION: 1280x720
           MIN_SPEED: "0.35"
           RESOLUTION_SPEED_MAP: 1280x720:0.2,1920x1080:0.45,3840x2160:1.0
@@ -48,12 +72,17 @@ jobs:
           IPV6_SUPPORT: "True"
           IPV_TYPE: ipv6
           IPV_TYPE_PREFER: ipv6
+          ORIGIN_TYPE_PREFER: subscribe,local
+          LOCAL_NUM: "3"
+          SUBSCRIBE_NUM: "5"
           MIN_RESOLUTION: 1280x720
           MIN_SPEED: "0.3"
           RESOLUTION_SPEED_MAP: 1280x720:0.2,1920x1080:0.5,3840x2160:1.0
           URLS_LIMIT: "3"
           OPEN_SUPPLY: "True"
         run: pipenv run dev
+      - name: Normalize GitHub Pages output paths
+        run: python scripts/normalize-playlist-outputs.py
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
