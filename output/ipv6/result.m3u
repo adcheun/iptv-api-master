@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-17 06:04:15
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-17 07:04:57
 https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
@@ -158,33 +158,35 @@ https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="贵州卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/贵州卫视.png" group-title="📡卫视精选",贵州卫视
 https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视精选",河北卫视
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784249415&k=b170842e1c7c9c6797081eda5f6ce12d
+#EXTINF:-1 tvg-id="32" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视精选",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视精选",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bd671e7b2a07a090ceca1df6533d86cb&wsTime=1784246297
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f97fcbd01eb3c4e1d4888cf6992a249b&wsTime=1784253570
 #EXTINF:-1 tvg-id="33" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视精选",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c8e5cd216a66cddf91ce5b423da31915&wsTime=1784253605&wsSession=c39194f5d2401e495e74e026-178423920551279&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168058346316481330
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=24d0ed6ccaf993a2e451783b7aeebbde&wsTime=1784256604&wsSession=629bb6a36a6c6cf6726452a9-178424220515377&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168059365225601744
 #EXTINF:-1 tvg-id="34" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视精选",黑龙江卫视
 https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视精选",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视精选",黑龙江卫视
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260717000210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20260717000210&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0704be00ce63588afe84703234e4fe8b&sv=10004&ct=android
-#EXTINF:-1 tvg-id="35" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视精选",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视精选",江西卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="35" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视精选",江西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="康巴卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/康巴卫视.png" group-title="📡卫视精选",康巴卫视
+#EXTINF:-1 tvg-id="35" tvg-name="康巴卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/康巴卫视.png" group-title="📡卫视精选",康巴卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="36" tvg-name="康巴卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/康巴卫视.png" group-title="📡卫视精选",康巴卫视
+#EXTINF:-1 tvg-id="35" tvg-name="康巴卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/康巴卫视.png" group-title="📡卫视精选",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="37" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视精选",辽宁卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="📡卫视精选",内蒙古卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="37" tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="📡卫视精选",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="📡卫视精选",内蒙古卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="📡卫视精选",宁夏卫视
 http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260716040255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=171.8.79.254&SecurityKey=20260716040255&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e0b2062950ec480828aa48ede451834&sv=10004&ct=android
 #EXTINF:-1 tvg-id="38" tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="📡卫视精选",宁夏卫视
@@ -209,6 +211,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" group-title="📡卫视精选",西藏卫视
 https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" group-title="📡卫视精选",西藏卫视
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=b32d2176df2ae2dc3ad6e08b2ec0e545&time=6a596019
 #EXTINF:-1 tvg-id="44" tvg-name="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" group-title="📡卫视精选",云南卫视
 https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东本地",广东珠江
@@ -1505,6 +1509,8 @@ http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=20a69eac95a086a875c8e89c1aadac17&wsTime=1784239246
 #EXTINF:-1 tvg-id="192" tvg-name="新闻频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新闻频道.png" group-title="♻️未匹配频道",新闻频道
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=b325f1b73b676515190202b1bc91b799&wsTime=1784246297
+#EXTINF:-1 tvg-id="192" tvg-name="新闻频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新闻频道.png" group-title="♻️未匹配频道",新闻频道
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=22fc3498d86dd685853385405492ad93&wsTime=1784253570
 #EXTINF:-1 tvg-id="193" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f085090b47c151dea8b5ccab47e23ce5&wsTime=1783684804
 #EXTINF:-1 tvg-id="193" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
@@ -1647,6 +1653,8 @@ http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=1cd9fcb01da984deaefa906236fd45bd&wsTime=1784239246
 #EXTINF:-1 tvg-id="193" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=cdd368a419354e870e6aa1f3aff023f8&wsTime=1784246297
+#EXTINF:-1 tvg-id="193" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=59ac105b23b89225a745375c0d86df7d&wsTime=1784253570
 #EXTINF:-1 tvg-id="194" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=fb72ea0b326dddbdb4e007a9613380a9&wsTime=1783684804
 #EXTINF:-1 tvg-id="194" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
@@ -1789,6 +1797,8 @@ http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bd4e67c5990be9a6e02437c970cbe696&wsTime=1784239246
 #EXTINF:-1 tvg-id="194" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=14ba890a179978bf3df1617274b055e7&wsTime=1784246297
+#EXTINF:-1 tvg-id="194" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=74d408c4692e5bd0759303dbe1e0484b&wsTime=1784253570
 #EXTINF:-1 tvg-id="195" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=ec4aa2f6160c92650f71f54aae716149&wsTime=1783684804
 #EXTINF:-1 tvg-id="195" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
@@ -1931,6 +1941,8 @@ http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=b7ac0ada18258f4a850f8a4785c5a459&wsTime=1784239246
 #EXTINF:-1 tvg-id="195" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=8a7b2b6fe156c171a5125337e366b71d&wsTime=1784246297
+#EXTINF:-1 tvg-id="195" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=296a65c7c4237ff0f332fb5efc3fc71e&wsTime=1784253570
 #EXTINF:-1 tvg-id="196" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=728118297cdb5bbf382c89e02b384ca3&wsTime=1783684804
 #EXTINF:-1 tvg-id="196" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
@@ -2073,6 +2085,8 @@ http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=7d1ec1ca08048f1e05d3c8fdba7a1394&wsTime=1784239246
 #EXTINF:-1 tvg-id="196" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=ac2e5ffbe8b7e136eb9a391cf4b3df76&wsTime=1784246297
+#EXTINF:-1 tvg-id="196" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4d083f6f2f7ff9ff676316a8b00a9856&wsTime=1784253570
 #EXTINF:-1 tvg-id="197" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=3fc9e7420122c0de3ff1abc27eb9ca76&wsTime=1783684804
 #EXTINF:-1 tvg-id="197" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
@@ -2215,6 +2229,8 @@ http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=8678f0213fb0d263c276eb040a578983&wsTime=1784239246
 #EXTINF:-1 tvg-id="197" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=c2d1af0c055f926010f5eef92878527e&wsTime=1784246297
+#EXTINF:-1 tvg-id="197" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ea46f62d67a5c8224b217986886c02eb&wsTime=1784253570
 #EXTINF:-1 tvg-id="198" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=2346f5d261ad7fffedac1ee254d0bb16&wsTime=1783684804
 #EXTINF:-1 tvg-id="198" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
@@ -2357,6 +2373,8 @@ http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=96a65e2973415c209d0233b4a89797b3&wsTime=1784239246
 #EXTINF:-1 tvg-id="198" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=264455273918ae4da2a5aa79d0656115&wsTime=1784246297
+#EXTINF:-1 tvg-id="198" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=d4b2dc4b36b8dcedce1d2a3231e5fa38&wsTime=1784253570
 #EXTINF:-1 tvg-id="199" tvg-name="文物宝库" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文物宝库.png" group-title="♻️未匹配频道",文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="200" tvg-name="象视界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象视界.png" group-title="♻️未匹配频道",象视界
@@ -2501,6 +2519,8 @@ http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=e276be6af8178b59a81878f226ad3514&wsTime=1784239246
 #EXTINF:-1 tvg-id="200" tvg-name="象视界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象视界.png" group-title="♻️未匹配频道",象视界
 http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=5914de4352555c8fc749dd4053f986ea&wsTime=1784246297
+#EXTINF:-1 tvg-id="200" tvg-name="象视界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象视界.png" group-title="♻️未匹配频道",象视界
+http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=35882415652c34827e8552a956d7e541&wsTime=1784253570
 #EXTINF:-1 tvg-id="201" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=f8305dd894f5e4b5d62966b652875a6e&wsTime=1783684804
 #EXTINF:-1 tvg-id="201" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
@@ -2643,6 +2663,8 @@ http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=13570187f9d273d8bd63694bd81b6381&wsTime=1784239246
 #EXTINF:-1 tvg-id="201" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=060d10c7a8b7fd4eae2a5e0932ff6c1f&wsTime=1784246297
+#EXTINF:-1 tvg-id="201" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=06ddca97c50d8c47d40879c4d86d5c94&wsTime=1784253570
 #EXTINF:-1 tvg-id="202" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="♻️未匹配频道",央视台球
 https://hls-gateway.vpstv.net/streams/708855.m3u8
 #EXTINF:-1 tvg-id="203" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="♻️未匹配频道",第一剧场
@@ -3815,6 +3837,8 @@ http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao03/1000/index.m
 http://mgsp-zy2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260716180207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20260716180207&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e2b7574c92ab521e7cce7bb9a5d6a772&sv=10004&ct=android
 #EXTINF:-1 tvg-id="233" tvg-name="熊猫频道3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/熊猫频道3.png" group-title="♻️未匹配频道",熊猫频道3
 http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260716220206&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20260716220206&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7ae32b1f8fb266afec38e66d90bef8a&sv=10004&ct=android
+#EXTINF:-1 tvg-id="233" tvg-name="熊猫频道3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/熊猫频道3.png" group-title="♻️未匹配频道",熊猫频道3
+http://mgsp-cty2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260717060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20260717060207&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b32459d978a5e1edbccdaaadfeea257e&sv=10004&ct=android
 #EXTINF:-1 tvg-id="234" tvg-name="熊猫频道8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/熊猫频道8.png" group-title="♻️未匹配频道",熊猫频道8
 http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260710180207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20260710180207&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2a1376541f3e78992d7dcb14712441f1&sv=10004&ct=android
 #EXTINF:-1 tvg-id="234" tvg-name="熊猫频道8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/熊猫频道8.png" group-title="♻️未匹配频道",熊猫频道8
