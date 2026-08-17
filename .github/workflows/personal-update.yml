@@ -18,10 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
-      - name: Check out main
+      - name: Check out triggering ref
         uses: actions/checkout@v6
-        with:
-          ref: main
 
       - name: Set up Python 3.14
         uses: actions/setup-python@v6
@@ -48,15 +46,15 @@ jobs:
           OPEN_UNMATCH_CATEGORY: "False"
           ORIGIN_TYPE_PREFER: "subscribe,local"
           LOCAL_NUM: "1"
-          SUBSCRIBE_NUM: "2"
-          OUTPUT_URLS_LIMIT: "2"
+          SUBSCRIBE_NUM: "3"
+          OUTPUT_URLS_LIMIT: "3"
         run: |
           FINAL_FILE=output/my_iptv.txt IPV6_SUPPORT=False IPV_TYPE=all IPV_TYPE_PREFER=ipv4,ipv6 \
-            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.5 pipenv run python main.py
+            MIN_RESOLUTION=1280x720 MIN_SPEED=0.3 pipenv run python main.py
           FINAL_FILE=output/my_iptv_ipv4.txt IPV6_SUPPORT=False IPV_TYPE=ipv4 IPV_TYPE_PREFER=ipv4 \
-            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.5 pipenv run python main.py
+            MIN_RESOLUTION=1280x720 MIN_SPEED=0.3 pipenv run python main.py
           FINAL_FILE=output/my_iptv_ipv6_hd.txt IPV6_SUPPORT=True IPV_TYPE=ipv6 IPV_TYPE_PREFER=ipv6 \
-            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.45 pipenv run python main.py
+            MIN_RESOLUTION=1280x720 MIN_SPEED=0.25 pipenv run python main.py
           pipenv run python scripts/normalize-playlist-outputs.py
 
       - name: Commit publishable results only
@@ -83,4 +81,4 @@ jobs:
             exit 0
           fi
           git commit -m "Update personal IPTV results"
-          git push origin HEAD:main
+          git push origin "HEAD:${GITHUB_REF_NAME}"
