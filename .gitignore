@@ -1,0 +1,23 @@
+dist
+build
+.idea
+__pycache__/
+output/screenshots/
+.venv/
+.venv*/
+.pytest_cache/
+
+# Keep generated playlists/EPG publishable, but never publish runtime state.
+output/data/
+output/log/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.log
+*.jsonl
+*.pickle
+*.pkl
+*.tmp

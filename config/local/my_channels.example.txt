@@ -1,0 +1,5 @@
+# Copy this file to config/local/my_channels.txt, then add only URLs you are
+# authorized to use. Format: channel name,url
+# Add $! after a trusted URL to skip speed testing and keep it first.
+# CCTV-1,http://your-own-domain/live/cctv1.m3u8
+# 广东体育,http://your-own-domain/live/gd-sports.m3u8$!

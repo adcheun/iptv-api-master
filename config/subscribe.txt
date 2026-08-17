@@ -1,0 +1,15 @@
+# Public candidate sources, one URL per line. Keep sources outside [WHITELIST]
+# so invalid or slow streams are filtered normally.
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+
+# Optional broad pools (disabled because they add duplicates/unstable nodes):
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
+# https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+
+[WHITELIST]
+# Put only trusted subscription URLs below this line.

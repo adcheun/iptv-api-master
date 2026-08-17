@@ -1,0 +1,86 @@
+name: Personal IPTV update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 12:00 Asia/Shanghai and Asia/Singapore (UTC+8).
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: personal-iptv-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Set up Python 3.14
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+          cache: pipenv
+
+      - name: Install FFmpeg and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip pipenv
+          pipenv --python 3.14
+          pipenv install --deploy
+
+      - name: Generate default, IPv4, and IPv6 playlists
+        shell: bash
+        env:
+          IPTV_API_PLAIN_OUTPUT: "1"
+          OPEN_SERVICE: "False"
+          OPEN_RTMP: "False"
+          OPEN_HISTORY: "False"
+          UPDATE_INTERVAL: "0"
+          OPEN_UNMATCH_CATEGORY: "False"
+          ORIGIN_TYPE_PREFER: "subscribe,local"
+          LOCAL_NUM: "1"
+          SUBSCRIBE_NUM: "2"
+          OUTPUT_URLS_LIMIT: "2"
+        run: |
+          FINAL_FILE=output/my_iptv.txt IPV6_SUPPORT=False IPV_TYPE=all IPV_TYPE_PREFER=ipv4,ipv6 \
+            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.5 pipenv run python main.py
+          FINAL_FILE=output/my_iptv_ipv4.txt IPV6_SUPPORT=False IPV_TYPE=ipv4 IPV_TYPE_PREFER=ipv4 \
+            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.5 pipenv run python main.py
+          FINAL_FILE=output/my_iptv_ipv6_hd.txt IPV6_SUPPORT=True IPV_TYPE=ipv6 IPV_TYPE_PREFER=ipv6 \
+            MIN_RESOLUTION=1920x1080 MIN_SPEED=0.45 pipenv run python main.py
+          pipenv run python scripts/normalize-playlist-outputs.py
+
+      - name: Commit publishable results only
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          publishable=(
+            output/my_iptv.txt output/my_iptv.m3u
+            output/my_iptv_ipv4.txt output/my_iptv_ipv4.m3u
+            output/my_iptv_ipv6_hd.txt output/my_iptv_ipv6_hd.m3u
+            output/result.txt output/result.m3u
+            output/ipv4/result.txt output/ipv4/result.m3u
+            output/ipv6/result.txt output/ipv6/result.m3u
+            output/epg/epg.xml output/epg/epg.gz
+          )
+          for path in "${publishable[@]}"; do
+            if [[ -f "$path" ]]; then
+              git add -- "$path"
+            fi
+          done
+          if git diff --cached --quiet; then
+            echo "No publishable result changes."
+            exit 0
+          fi
+          git commit -m "Update personal IPTV results"
+          git push origin HEAD:main
