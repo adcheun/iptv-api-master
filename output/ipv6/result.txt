@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 17:04:41,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-02 16:19:06,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📌我的常看,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -21,10 +21,10 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ce5c9c63e81a1c5177471d0526b01f82&wsTime=1788264073
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f9b92d785a8509fe862f772b83c9cb34&wsTime=1788350638
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0339d167a46ffd34ce2479b992f28618&wsTime=1787873125
 
 ☘️广东本地,#genre#
