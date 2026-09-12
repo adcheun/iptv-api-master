@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 16:28:41,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-12 16:17:09,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📌我的常看,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -24,7 +24,7 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=197caba1437dbfceb1e23ce5758a6799&wsTime=1789128219
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=edc338c889ac635231cc9a3f1a6f4db0&wsTime=1789214634
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=6c87f05fbc3ef2fee0c45559deca8586&wsTime=1788985098
 
 ☘️广东本地,#genre#
