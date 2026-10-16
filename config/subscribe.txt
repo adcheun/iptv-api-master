@@ -1,5 +1,13 @@
 # Public candidate sources, one URL per line. Keep sources outside [WHITELIST]
 # so invalid or slow streams are filtered normally.
+# iptv-org 持续维护的中国频道聚合列表。这里不放入白名单，
+# 所有候选地址必须经过项目测速和发布前 ffprobe 复验。
+https://iptv-org.github.io/iptv/countries/cn.m3u
+# 原始中国频道流清单包含更多中文频道名，作为同项目补充源。
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# GaryShare 公开 M3U，作为欧美新闻、体育、影视、纪录、少儿频道补充源。
+https://garyshare.sharewithyou.dpdns.org/mylist.m3u
+
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
