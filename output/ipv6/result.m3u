@@ -1,85 +1,97 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-10-22 17:12:16
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-10-23 17:07:30
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
+https://cdn.qd.je/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
-http://x1x.bid:5146/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📌我的常看",CCTV-1
-http://www.huijie5421.cn:8800/rtp/239.49.8.19:9614
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📌我的常看",CCTV-5
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📌我的常看",CCTV-5
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5-2
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📌我的常看",CCTV-5
 https://0832-1dbe-95df-5158.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📌我的常看",CCTV-5
-http://www.huijie5421.cn:8800/rtp/239.49.8.75:8000
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📌我的常看",CCTV-5
-http://emby.xlangnan.cn:10316/rtp/239.254.201.153:7206
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📌我的常看",CCTV-5+
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📌我的常看",CCTV-5+
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📌我的常看",CCTV-5+
-http://x1x.bid:5146/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📌我的常看",CCTV-5+
-http://www.huijie5421.cn:8800/rtp/239.49.8.18:9610
+http://emby.xlangnan.cn:10316/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📌我的常看",CCTV-6
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📌我的常看",CCTV-6
 https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📌我的常看",CCTV-6
-http://www.huijie5421.cn:8800/rtp/239.49.8.76:8000
+http://wangfei.uno:9999/rtp/225.1.2.143:10876
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📌我的常看",CCTV-13
-https://10.fast.hidns.vip/163189/cctv13/
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📌我的常看",CCTV-13
+https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📌我的常看",CCTV-13
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📌我的常看",CCTV-13
-http://www.huijie5421.cn:8800/rtp/239.49.8.109:8000
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="📌我的常看",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="📌我的常看",广东体育
+https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="📌我的常看",广东体育
-https://2.fast.hidns.vip/163189/gdty
+http://www.3344.uk:8888/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📌我的常看",广东卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.13:9422
+http://www.3344.uk:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📌我的常看",广东卫视
+http://wangfei.uno:9999/rtp/225.1.2.151:10924
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📌我的常看",广东卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.56:8048
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="📌我的常看",广东珠江
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="📌我的常看",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="📌我的常看",广东珠江
 http://www.3344.uk:8888/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="📌我的常看",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="📌我的常看",广东珠江
-https://2.fast.hidns.vip/163189/gdzj
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📌我的常看",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+http://wangfei.uno:9999/rtp/225.1.2.85:10504
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📌我的常看",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+http://emby.xlangnan.cn:10316/rtp/239.254.200.53:8036
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📌我的常看",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://www.huijie5421.cn:8800/rtp/239.49.8.20:9618
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📌我的常看",湖南卫视
 https://7612-5516-affc-d88b.kylintv.tv/live/huntvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📌我的常看",湖南卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
+http://wangfei.uno:9999/rtp/225.1.2.50:10294
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📌我的常看",湖南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视精选",CCTV-1
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视精选",CCTV-1
+https://cdn.qd.je/163189/cctv1
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视精选",CCTV-1
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视精选",CCTV-1
-http://x1x.bid:5146/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视精选",CCTV-1
-http://www.huijie5421.cn:8800/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视精选",CCTV-2
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视精选",CCTV-2
-http://www.huijie5421.cn:8800/rtp/239.49.8.50:9802
+http://wangfei.uno:9999/rtp/225.1.2.78:10462
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视精选",CCTV-2
 http://emby.xlangnan.cn:10316/rtp/239.254.200.158:6000
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视精选",CCTV-3
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视精选",CCTV-3
-http://www.huijie5421.cn:8800/rtp/239.49.8.74:8000
+http://wangfei.uno:9999/rtp/225.1.2.141:10864
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视精选",CCTV-3
 http://emby.xlangnan.cn:10316/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视精选",CCTV-4
@@ -88,83 +100,88 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视精选",CCTV-4
 https://0832-1dbe-95df-5158.kylintv.tv/live/cctv4hd_iphone.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视精选",CCTV-4
-http://www.huijie5421.cn:8800/rtp/239.49.8.51:9806
+http://wangfei.uno:9999/rtp/225.1.2.197:11806
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视精选",CCTV-5
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视精选",CCTV-5
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5-2
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视精选",CCTV-5
 https://0832-1dbe-95df-5158.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视精选",CCTV-5
-http://www.huijie5421.cn:8800/rtp/239.49.8.75:8000
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视精选",CCTV-5
-http://emby.xlangnan.cn:10316/rtp/239.254.201.153:7206
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视精选",CCTV-5+
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视精选",CCTV-5+
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视精选",CCTV-5+
-http://x1x.bid:5146/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视精选",CCTV-5+
-http://www.huijie5421.cn:8800/rtp/239.49.8.18:9610
+http://emby.xlangnan.cn:10316/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视精选",CCTV-6
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视精选",CCTV-6
 https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视精选",CCTV-6
-http://www.huijie5421.cn:8800/rtp/239.49.8.76:8000
+http://wangfei.uno:9999/rtp/225.1.2.143:10876
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视精选",CCTV-8
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视精选",CCTV-8
-http://www.huijie5421.cn:8800/rtp/239.49.8.77:8000
+http://wangfei.uno:9999/rtp/225.1.2.144:10882
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视精选",CCTV-8
 http://emby.xlangnan.cn:10316/rtp/239.254.201.155:7208
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视精选",CCTV-9
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视精选",CCTV-9
-http://www.huijie5421.cn:8800/rtp/239.49.8.53:9814
+http://wangfei.uno:9999/rtp/225.1.2.80:10474
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视精选",CCTV-9
 http://emby.xlangnan.cn:10316/rtp/239.254.200.59:8112
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视精选",CCTV-10
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视精选",CCTV-10
-http://www.huijie5421.cn:8800/rtp/239.49.8.54:9818
+http://wangfei.uno:9999/rtp/225.1.2.81:10480
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视精选",CCTV-10
 http://emby.xlangnan.cn:10316/rtp/239.254.200.160:6000
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视精选",CCTV-13
-https://10.fast.hidns.vip/163189/cctv13/
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视精选",CCTV-13
+https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视精选",CCTV-13
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视精选",CCTV-13
-http://www.huijie5421.cn:8800/rtp/239.49.8.109:8000
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视精选",CCTV-14
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视精选",CCTV-14
-http://www.huijie5421.cn:8800/rtp/239.49.8.56:9826
+https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视精选",CCTV-14
-http://emby.xlangnan.cn:10316/rtp/239.254.200.162:6000
+https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视精选",CCTV-15
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视精选",CCTV-15
-http://x1x.bid:5146/rtp/239.3.1.153:8136
+http://wangfei.uno:9999/rtp/225.1.2.221:11440
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视精选",CCTV-15
-http://www.huijie5421.cn:8800/rtp/239.49.0.128:8000
+http://emby.xlangnan.cn:10316/rtp/239.254.201.124:8136
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视精选",CCTV-16
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视精选",CCTV-16
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视精选",CCTV-16
-http://www.huijie5421.cn:8800/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视精选",CCTV-16
 http://emby.xlangnan.cn:10316/rtp/239.254.200.61:6344
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视精选",CCTV-17
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视精选",CCTV-17
-http://x1x.bid:5146/rtp/239.3.1.151:8144
+http://wangfei.uno:9999/rtp/225.1.2.53:10312
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视精选",CCTV-17
-http://www.huijie5421.cn:8800/rtp/239.49.8.52:9810
+http://emby.xlangnan.cn:10316/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="📺央视精选",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="📺央视精选",CGTN
@@ -172,82 +189,103 @@ https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="📺央视精选",CGTN
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视精选",广东卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.13:9422
+http://www.3344.uk:8888/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视精选",广东卫视
+http://wangfei.uno:9999/rtp/225.1.2.151:10924
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视精选",广东卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.56:8048
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视精选",湖南卫视
 https://7612-5516-affc-d88b.kylintv.tv/live/huntvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视精选",湖南卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
+http://wangfei.uno:9999/rtp/225.1.2.50:10294
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视精选",湖南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视精选",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+http://wangfei.uno:9999/rtp/225.1.2.85:10504
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视精选",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+http://emby.xlangnan.cn:10316/rtp/239.254.200.53:8036
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视精选",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://www.huijie5421.cn:8800/rtp/239.49.8.20:9618
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡卫视精选",江苏卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.16:9602
+http://wangfei.uno:9999/rtp/225.1.2.84:10498
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡卫视精选",江苏卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.51:8028
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡卫视精选",江苏卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="📡卫视精选",东方卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.17:9606
+http://wangfei.uno:9999/rtp/225.1.2.86:10510
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="📡卫视精选",东方卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.52:8032
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="📡卫视精选",东方卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.17:9606
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视精选",北京卫视
 https://0832-1dbe-95df-5158.kylintv.tv/live/btvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视精选",北京卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.11:9414
+http://wangfei.uno:9999/rtp/225.1.2.49:10288
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视精选",北京卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.47:8024
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="📡卫视精选",深圳卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.15:9430
+http://wangfei.uno:9999/rtp/225.1.2.91:10540
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="📡卫视精选",深圳卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.50:8020
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="📡卫视精选",深圳卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.15:9430
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视精选",湖北卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.8:9632
+http://wangfei.uno:9999/rtp/225.1.2.90:10534
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视精选",湖北卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.164:6000
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视精选",湖北卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.8:9632
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视精选",四川卫视
-http://x1x.bid:5146/rtp/239.3.1.29:8288
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视精选",四川卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.110:8000
+http://wangfei.uno:9999/rtp/225.1.2.108:11626
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视精选",四川卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.202:6325
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视精选",四川卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.110:8000
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视精选",东南卫视
-http://x1x.bid:5146/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视精选",东南卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.112:8000
+http://wangfei.uno:9999/rtp/225.1.2.226:11470
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视精选",东南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.201.13:6291
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视精选",东南卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.112:8000
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视精选",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视精选",广西卫视
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视精选",广西卫视
-http://x1x.bid:5146/rtp/239.3.1.39:8300
+http://wangfei.uno:9999/rtp/225.1.2.34:10198
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视精选",河南卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.29:8000
+http://wangfei.uno:9999/rtp/225.1.2.99:10588
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视精选",河南卫视
+http://wangfei.uno:9999/rtp/225.1.2.22:10126
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视精选",河南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.201.16:7174
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东本地",广东珠江
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="☘️广东本地",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东本地",广东珠江
 http://www.3344.uk:8888/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东本地",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东本地",广东珠江
-https://2.fast.hidns.vip/163189/gdzj
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="☘️广东本地",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="☘️广东本地",广东体育
+https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="☘️广东本地",广东体育
-https://2.fast.hidns.vip/163189/gdty
+http://www.3344.uk:8888/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="☘️广东本地",广东新闻
+http://www.3344.uk:8888/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="☘️广东本地",大湾区卫视
+http://www.3344.uk:8888/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️广东本地",广州综合
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://cdn.qd.je/163189/gzzh
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️广东本地",广州综合
 https://168.sryze.cc/163189/gzzh
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️广东本地",广州综合
-http://cdn16.123.rr.kg/163189/gzzh
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️广东本地",广州综合
-https://cdn16.123.rr.kg/163189/gzzh
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="☘️广东本地",深圳卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.15:9430
+http://wangfei.uno:9999/rtp/225.1.2.91:10540
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="☘️广东本地",深圳卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.50:8020
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="☘️广东本地",深圳卫视
+http://www.huijie5421.cn:8800/rtp/239.49.8.15:9430
