@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-30 18:47:02,https://cdn.qd.je/163189/rthk33
+2026-10-31 18:13:25,https://cdn.qd.je/163189/rthk33
 
 📌我的常看,#genre#
 CCTV-1,https://cdn.qd.je/163189/rthk33
@@ -16,7 +16,7 @@ CCTV-6,http://wangfei.uno:9999/rtp/225.1.2.143:10876
 CCTV-6,http://emby.xlangnan.cn:10316/rtp/239.254.201.154:7207
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
-CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
@@ -26,9 +26,9 @@ CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
-浙江卫视,http://wangfei.uno:9999/rtp/225.1.2.85:10504
-浙江卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.53:8036
-浙江卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.20:9618
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://wangfei.uno:9999/rtp/225.1.2.50:10294
 湖南卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 湖南卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
@@ -66,7 +66,7 @@ CCTV-10,http://wangfei.uno:9999/rtp/225.1.2.81:10480
 CCTV-10,http://emby.xlangnan.cn:10316/rtp/239.254.200.160:6000
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
-CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
@@ -90,9 +90,9 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 湖南卫视,http://wangfei.uno:9999/rtp/225.1.2.50:10294
 湖南卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 湖南卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
-浙江卫视,http://wangfei.uno:9999/rtp/225.1.2.85:10504
-浙江卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.53:8036
-浙江卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.20:9618
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://wangfei.uno:9999/rtp/225.1.2.84:10498
 江苏卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.51:8028
 江苏卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.16:9602
@@ -113,7 +113,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 四川卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.110:8000
 东南卫视,http://wangfei.uno:9999/rtp/225.1.2.226:11470
 东南卫视,http://emby.xlangnan.cn:10316/rtp/239.254.201.13:6291
-东南卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.112:8000
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://wangfei.uno:9999/rtp/225.1.2.34:10198
