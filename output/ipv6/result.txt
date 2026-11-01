@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-31 18:13:25,https://cdn.qd.je/163189/rthk33
+2026-11-01 19:04:16,https://cdn.qd.je/163189/rthk33
 
 📌我的常看,#genre#
 CCTV-1,https://cdn.qd.je/163189/rthk33
@@ -19,13 +19,13 @@ CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,https://cdn.qd.je/163189/gdty
-广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
-广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东卫视,http://wangfei.uno:9999/rtp/225.1.2.151:10924
 广东卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.56:8048
+广东卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.13:9422
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东珠江,https://cdn.qd.je/163189/gdzj
-广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -72,21 +72,21 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV-15,http://wangfei.uno:9999/rtp/225.1.2.221:11440
-CCTV-15,http://emby.xlangnan.cn:10316/rtp/239.254.201.124:8136
+CCTV-15,http://x1x.bid:5146/rtp/239.3.1.153:8136
 CCTV-16,https://cdn.qd.je/163189/cctv16-2
 CCTV-16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV-16,http://emby.xlangnan.cn:10316/rtp/239.254.200.61:6344
 CCTV-17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 CCTV-17,http://wangfei.uno:9999/rtp/225.1.2.53:10312
-CCTV-17,http://emby.xlangnan.cn:10316/rtp/239.254.201.120:8144
+CCTV-17,http://x1x.bid:5146/rtp/239.3.1.151:8144
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 
 📡卫视精选,#genre#
-广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
 广东卫视,http://wangfei.uno:9999/rtp/225.1.2.151:10924
 广东卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.56:8048
+广东卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.13:9422
 湖南卫视,http://wangfei.uno:9999/rtp/225.1.2.50:10294
 湖南卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 湖南卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
@@ -109,13 +109,13 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 湖北卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.164:6000
 湖北卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.8:9632
 四川卫视,http://wangfei.uno:9999/rtp/225.1.2.108:11626
+四川卫视,http://x1x.bid:5146/rtp/239.3.1.29:8288
 四川卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.202:6325
-四川卫视,http://www.huijie5421.cn:8800/rtp/239.49.8.110:8000
 东南卫视,http://wangfei.uno:9999/rtp/225.1.2.226:11470
+东南卫视,http://x1x.bid:5146/rtp/239.3.1.156:8148
 东南卫视,http://emby.xlangnan.cn:10316/rtp/239.254.201.13:6291
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://wangfei.uno:9999/rtp/225.1.2.34:10198
 河南卫视,http://wangfei.uno:9999/rtp/225.1.2.99:10588
 河南卫视,http://wangfei.uno:9999/rtp/225.1.2.22:10126
@@ -124,12 +124,10 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 ☘️广东本地,#genre#
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东珠江,https://cdn.qd.je/163189/gdzj
-广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,https://cdn.qd.je/163189/gdty
-广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
-广东新闻,http://www.3344.uk:8888/udp/239.77.0.173:5146
-大湾区卫视,http://www.3344.uk:8888/udp/239.77.0.215:5146
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广州综合,https://cdn.qd.je/163189/gzzh
 广州综合,https://168.sryze.cc/163189/gzzh
 广州综合,http://cdn16.123.rr.kg/163189/gzzh
