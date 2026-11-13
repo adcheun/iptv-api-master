@@ -2,12 +2,9 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'config/**'
-      - '.github/workflows/main.yml'
-  schedule:
-    - cron: '0 2,14 * * *' # 每天北京时间 10:00 和 22:00 自动执行一次更新
+
+permissions:
+  contents: write
 
 jobs:
   push:
@@ -16,11 +13,11 @@ jobs:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
     steps:
-      - uses: actions/checkout@v4
-      - name: Run with setup-python 3.13
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - name: Run with setup-python 3.14
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.13'
+          python-version: '3.14'
           update-environment: true
           cache: 'pipenv'
       - name: Install FFmpeg
@@ -28,7 +25,7 @@ jobs:
       - name: Install pipenv
         run: pip3 install --user pipenv
       - name: Install dependecies
-        run: pipenv --python 3.13 && pipenv install --deploy
+        run: pipenv --python 3.14 && pipenv install --deploy
       - name: Update
         run: pipenv run dev
       - name: Commit and push if changed

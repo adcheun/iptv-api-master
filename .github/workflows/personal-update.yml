@@ -2,6 +2,10 @@ name: Personal IPTV update
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "config/**"
+      - ".github/workflows/personal-update.yml"
   schedule:
     # 12:00 Asia/Shanghai and Asia/Singapore (UTC+8).
     - cron: "0 4 * * *"
