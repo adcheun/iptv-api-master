@@ -9,11 +9,24 @@
 GitHub Actions 每天北京时间/新加坡时间 12:00 运行（UTC 04:00），也可在
 Actions 页面手动触发。工作流使用 Python 3.14，生成：
 
-- `output/my_iptv.txt`、`output/my_iptv.m3u`
-- `output/my_iptv_ipv4.txt`、`output/my_iptv_ipv4.m3u`
-- `output/my_iptv_ipv6_hd.txt`、`output/my_iptv_ipv6_hd.m3u`
+- `output/my_iptv.txt`、`output/my_iptv.m3u`（双栈主力推荐版）
+- `output/my_iptv_ipv4.txt`、`output/my_iptv_ipv4.m3u`（纯 IPv4 兼容版）
+- `output/my_iptv_ipv6_hd.txt`、`output/my_iptv_ipv6_hd.m3u`（纯 IPv6 1080P/4K 超清极速版）
 - 兼容路径 `output/result.*`、`output/ipv4/result.*`、`output/ipv6/result.*`
-- `output/epg/epg.xml` 与 `output/epg/epg.gz`（成功生成时）
+- `output/epg/epg.xml` 与 `output/epg/epg.gz`（电子节目单预告）
+
+## 频道分类结构
+
+在 `config/user_demo.txt` 中已构建标准 9 大板块分类：
+1. 📌 我的常看（核心大台快速直达）
+2. 📺 央视频道（CCTV-1~17、4K、CETV、CGTN 全套）
+3. 📡 全国卫视（主流一线卫视全覆盖）
+4. 🏀 体育赛事（央视体育、地方体育、台球垂钓等专业赛事专区）
+5. 🎞️ 影视剧场（央视电影、CHC 系列动作/家庭/影迷专区）
+6. 👶 少儿动漫（少儿、金鹰卡通、卡酷、优漫、嘉佳卡通专区）
+7. ☘️ 湖北专区（湖北卫视、湖北综合、湖北经视、湖北影视、武汉新闻等）
+8. ☘️ 粤语专区（广东珠江、大湾区卫视、广州综合等粤语精品）
+9. 🌏 港澳华语（香港卫视、凤凰卫视等华语频道）
 
 工作流只提交上述播放列表和 EPG。日志、缓存、数据库、WAL/SHM、截图及
 其他运行状态均被排除。

@@ -40,6 +40,56 @@
 
 </div>
 
+---
+
+## 📺 我的 IPTV 直播源订阅中心与输出分类导航
+
+> ⚡ **自动化维护**：本项目通过 GitHub Actions 每天自动化采集最新直播源，基于 **湖北移动 & 原生 IPv6 专线** 及公网优质源池完成可用性检测、高分辨率过滤（1080P/4K）、智能补偿去重。
+
+### 🚀 直播源分类订阅地址（一键复制导入）
+
+| 线路分类 | 格式 | 在线原始订阅链接（可直接导入各类播放器） | 线路与网络适用说明 |
+| :--- | :---: | :--- | :--- |
+| **⭐ 推荐·双栈全量版** | **M3U** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv.m3u` | **全平台首选**：IPv4 + IPv6 智能优选，频道最全、稳定性最佳 |
+| | **TXT** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv.txt` | 适合各类传统机顶盒与 TVBox TXT 接口 |
+| **🚀 超清·IPv6 极速版** | **M3U** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv6_hd.m3u` | **画质天花板**：纯 IPv6 运营商专网，1080P 50帧 / 4K，秒开无缓冲 |
+| | **TXT** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv6_hd.txt` | 纯 IPv6 纯文本列表 |
+| **🛡️ 兼容·IPv4 稳定版** | **M3U** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv4.m3u` | **兼容保底**：适合老旧电视盒子、不支持 IPv6 的移动热点与校园网 |
+| | **TXT** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/my_iptv_ipv4.txt` | 纯 IPv4 纯文本列表 |
+| **📅 电子节目单 (EPG)** | **XML.GZ** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/epg/epg.xml.gz` | 7天电子节目预告（压缩包，节省流量，首选） |
+| | **XML** | `https://raw.githubusercontent.com/adcheun/iptv-api-master/main/output/epg/epg.xml` | 7天电子节目预告明文 XML |
+
+> 💡 **国内网络加速提示**：如遇到 GitHub raw 直连较慢，可在链接前添加加速前缀（例如：`https://gh-proxy.org/https://raw.githubusercontent.com/...`）。
+
+---
+
+### 📂 播放列表内部频道分类架构
+
+所有输出列表均已做精细化梳理，分为以下 **9 大清晰板块**：
+
+1. **📌 我的常看**：CCTV-1/5/6/13、湖北卫视、湖北综合、广东体育、广东珠江、湖南卫视、浙江卫视等高频核心台
+2. **📺 央视频道**：CCTV-1 ~ CCTV-17 完整全套（含国防军事、戏曲、法治等）、CCTV-4K 超高清、CETV 中国教育台、CGTN
+3. **📡 全国卫视**：涵盖湖南、浙江、江苏、东方、北京、广东、湖北、深圳、山东、四川、安徽、河南等全国一线主力卫视
+4. **🏀 体育赛事**：独立体育专区（CCTV-5 体育、CCTV-5+ 赛事、广东体育、五星体育、央视台球、快乐垂钓）
+5. **🎞️ 影视剧场**：独立影院专区（CCTV-6 电影、CHC动作电影、CHC家庭影院、CHC影迷电影、湖北影视）
+6. **👶 少儿动漫**：独立少儿专区（CCTV-14 少儿、金鹰卡通、卡酷少儿、优漫卡通、嘉佳卡通）
+7. **☘️ 湖北专区**：本土精选台（湖北综合、湖北经视、湖北卫视、湖北影视、武汉新闻）
+8. **☘️ 粤语专区**：大湾区与粤语精选（广东珠江、广东体育、广东新闻、大湾区卫视、广州综合、深圳卫视）
+9. **🌏 港澳华语**：香港卫视、凤凰卫视等华语频道
+
+---
+
+### 📱 常见播放设备导入指引
+
+| 播放设备 / 软件 | 导入方法 | 推荐使用源 |
+| :--- | :--- | :--- |
+| **电视盒子 (TiviMate / 影视仓)** | 设置 ➔ 添加播放列表 ➔ 填入 M3U 链接与 EPG 链接 ➔ 保存 | **双栈全量版 M3U** 或 **IPv6 超清版 M3U** |
+| **电视盒子 (TVBox)** | 设置 ➔ 配置地址 ➔ 直接填入 M3U 链接或 TXT 链接 ➔ 确定 | **双栈全量版 M3U / TXT** |
+| **电脑端 (PotPlayer / VLC)** | 打开链接 / 添加播放列表 ➔ 粘贴 M3U 订阅地址 | **双栈全量版 M3U** |
+| **手机 / 平板 (APTV)** | 添加配置 ➔ 填入 M3U 链接与 EPG 链接 ➔ 刷新源 | **IPv6 超清版 M3U** 或 **双栈全量版 M3U** |
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./docs/images/desktop-ui-dark.png">
