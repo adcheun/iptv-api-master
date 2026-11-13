@@ -54,6 +54,13 @@ def remove_ipv6_literal_m3u(path: Path) -> None:
     write_lines(path, cleaned)
 
 
+def strip_extvlcopt_m3u(path: Path) -> None:
+    lines = read_lines(path)
+    if not lines:
+        return
+    write_lines(path, [line for line in lines if not line.startswith("#EXTVLCOPT:")])
+
+
 def copy_file(source: Path, destination: Path) -> None:
     if not source.exists():
         raise FileNotFoundError(source)
@@ -80,6 +87,7 @@ def main() -> None:
     remove_ipv6_literal_m3u(ipv4_m3u)
     for path in (default_m3u, ipv4_m3u, ipv6_m3u):
         rewrite_public_epg_url(path)
+        strip_extvlcopt_m3u(path)
     copy_file(OUTPUT / "my_iptv.txt", OUTPUT / "result.txt")
     copy_file(default_m3u, OUTPUT / "result.m3u")
     copy_file(ipv4_txt, OUTPUT / "ipv4/result.txt")
